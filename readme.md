@@ -14,5 +14,7 @@
 
 ## 使用方法
 
+- 使用推荐信模板导入SWU Recommendation Template.zip至latex
+- 使用简历模板导入SWU：西南大学Latex中文简历.zip至latex
 - 编辑 `main.tex` 中的内容，对文档样式和内容进行修改。
 - 使用 `XeLaTeX` 或 `LuaLaTeX` 编译。
